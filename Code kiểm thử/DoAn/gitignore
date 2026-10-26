@@ -1,0 +1,85 @@
+# .NET build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Aa]rtifacts/
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Visual Studio / VS Code / Rider
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+.vscode/.history/
+.idea/
+*.sln.iml
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet temporary files / packages
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Test results, code coverage, and reports
+TestResults/
+test-results/
+test-output/
+coverage/
+coverage-report/
+allure-results/
+allure-report/
+*.trx
+*.coverage
+*.coveragexml
+*.lcov
+
+# Selenium WebDriver: generated screenshots, downloads, and logs
+screenshots/
+Screenshots/
+selenium-logs/
+selenium-profile/
+chrome-profile/
+firefox-profile/
+edge-profile/
+user-data-dir/
+*.crdownload
+*.part
+chromedriver.log
+geckodriver.log
+msedgedriver.log
+
+# Locally downloaded WebDriver binaries (Selenium Manager can manage drivers)
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+msedgedriver
+msedgedriver.exe
+
+# Local configuration / secrets
+.env
+.env.*
+!.env.example
+!.env.sample
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Operating system / editor temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*~
+*.tmp
+*.swp
+*.bak

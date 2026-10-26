@@ -1,0 +1,293 @@
+C:\Users\Hung\Desktop\DoAn\DoAn\obj\Release\DoAn.csproj.AssemblyReference.cache
+C:\Users\Hung\Desktop\DoAn\DoAn\obj\Release\DoAn.csproj.ResolveComReference.cache
+C:\Users\Hung\Desktop\DoAn\DoAn\obj\Release\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\selenium-manager\linux\selenium-manager
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\selenium-manager\macos\selenium-manager
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\selenium-manager\windows\selenium-manager.exe
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\nunit.engine.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\nunit.engine.api.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\nunit.engine.core.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\testcentric.engine.metadata.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\DoAn.dll.config
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\DoAn.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\DoAn.pdb
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Excel.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.ApplicationInsights.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Platform.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Platform.MSBuild.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Newtonsoft.Json.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\NuGet.Frameworks.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\nunit.framework.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\nunit.framework.legacy.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Buffers.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Collections.Immutable.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Memory.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Reflection.Metadata.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\WebDriver.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\WebDriver.Support.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Excel.pdb
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.ApplicationInsights.pdb
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.ApplicationInsights.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.Telemetry.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.VSTestBridge.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.Testing.Platform.MSBuild.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\Newtonsoft.Json.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\NuGet.Frameworks.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\nunit.framework.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\nunit.framework.legacy.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Buffers.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Collections.Immutable.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Memory.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Reflection.Metadata.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\WebDriver.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\WebDriver.Support.xml
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\obj\Release\DoAn.csproj.Up2Date
+C:\Users\Hung\Desktop\DoAn\DoAn\obj\Release\DoAn.dll
+C:\Users\Hung\Desktop\DoAn\DoAn\obj\Release\DoAn.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\selenium-manager\linux\selenium-manager
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\selenium-manager\macos\selenium-manager
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\selenium-manager\windows\selenium-manager.exe
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\NUnit3.TestAdapter.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\NUnit3.TestAdapter.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\nunit.engine.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\nunit.engine.api.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\nunit.engine.core.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\testcentric.engine.metadata.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\DoAn.dll.config
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\DoAn.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\DoAn.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Excel.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.ApplicationInsights.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.Telemetry.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.VSTestBridge.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Platform.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Platform.MSBuild.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Newtonsoft.Json.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\NuGet.Frameworks.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\nunit.framework.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\nunit.framework.legacy.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Buffers.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Collections.Immutable.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Diagnostics.DiagnosticSource.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Memory.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Numerics.Vectors.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Reflection.Metadata.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\WebDriver.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\WebDriver.Support.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Excel.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.ApplicationInsights.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.ApplicationInsights.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.Telemetry.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.TrxReport.Abstractions.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Extensions.VSTestBridge.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.Testing.Platform.MSBuild.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\Newtonsoft.Json.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\NuGet.Frameworks.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\nunit.framework.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\nunit.framework.legacy.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Buffers.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Collections.Immutable.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Diagnostics.DiagnosticSource.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Memory.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Numerics.Vectors.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Reflection.Metadata.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\WebDriver.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\WebDriver.Support.xml
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\bin\Release\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\obj\Release\DoAn.csproj.AssemblyReference.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\obj\Release\DoAn.csproj.ResolveComReference.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\obj\Release\DoAn.csproj.CoreCompileInputs.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\obj\Release\DoAn.csproj.Up2Date
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\obj\Release\DoAn.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\DoAn\obj\Release\DoAn.pdb

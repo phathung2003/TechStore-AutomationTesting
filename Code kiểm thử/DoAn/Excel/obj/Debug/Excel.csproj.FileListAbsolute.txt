@@ -1,0 +1,14 @@
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\DoAn\Excel\bin\Debug\Excel.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\DoAn\Excel\bin\Debug\Excel.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\DoAn\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\DoAn\Excel\obj\Debug\Excel.csproj.ResolveComReference.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\DoAn\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\DoAn\Excel\obj\Debug\Excel.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\DoAn\Excel\obj\Debug\Excel.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\Excel\bin\Debug\Excel.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\Excel\bin\Debug\Excel.pdb
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\Excel\obj\Debug\Excel.csproj.ResolveComReference.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\Excel\obj\Debug\Excel.dll
+E:\Homework\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Đồ án\Phần mềm\TechStore-AutomationTesting\DoAn\Excel\obj\Debug\Excel.pdb

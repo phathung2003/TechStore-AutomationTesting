@@ -1,0 +1,8 @@
+docker ps
+docker exec -it container_id /bin/bash
+docker exec -it 25767a1525cf /bin/bash
+mysql -u sonhoang2071 -p
+Nhập mật khẩu: Sonhoang2071
+use tech_store;
+
+

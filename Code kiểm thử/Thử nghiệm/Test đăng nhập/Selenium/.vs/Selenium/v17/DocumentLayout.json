@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|c:\\users\\acer\\desktop\\new folder\\selenium\\selenium\\selenium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|solutionrelative:selenium\\selenium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\selenium\\set9\\tracuu\\tracuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|solutionrelative:selenium\\set9\\tracuu\\tracuu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\selenium\\setting\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|solutionrelative:selenium\\setting\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\selenium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288BD594-05E8-4E11-813B-AED1637972E8}|Selenium\\Selenium.csproj|solutionrelative:selenium\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Selenium.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\Selenium\\Selenium.cs",
+              "RelativeDocumentMoniker": "Selenium\\Selenium.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\Selenium\\Selenium.cs",
+              "RelativeToolTip": "Selenium\\Selenium.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:06:05.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TraCuu.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\Selenium\\Set9\\TraCuu\\TraCuu.cs",
+              "RelativeDocumentMoniker": "Selenium\\Set9\\TraCuu\\TraCuu.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\Selenium\\Set9\\TraCuu\\TraCuu.cs",
+              "RelativeToolTip": "Selenium\\Set9\\TraCuu\\TraCuu.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:06:05.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\Selenium\\Setting\\Setting.cs",
+              "RelativeDocumentMoniker": "Selenium\\Setting\\Setting.cs",
+              "ToolTip": "D:\\N\u0103m 3\\H\u1ECDc k\u1EF3 2\\B\u1EA3o \u0111\u1EA3m ch\u1EA5t l\u01B0\u1EE3ng ph\u1EA7n m\u1EC1m\\Selenium\\Selenium\\Setting\\Setting.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:06:05.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\Selenium\\Program.cs",
+              "RelativeDocumentMoniker": "Selenium\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\New folder\\Selenium\\Selenium\\Program.cs",
+              "RelativeToolTip": "Selenium\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:06:05.374Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

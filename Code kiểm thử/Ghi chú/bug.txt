@@ -1,0 +1,20 @@
+[Window Title]
+Docker Desktop
+
+[Main Instruction]
+Docker Desktop - Unexpected WSL error
+
+[Content]
+An unexpected error was encountered while executing a WSL command. Common causes include access rights issues, which occur after waking the computer or not being connected to your domain/active directory.
+
+Please try shutting WSL down (wsl --shutdown) and/or rebooting your computer. If not sufficient, WSL may need to be reinstalled fully. As a last resort, try to uninstall/reinstall Docker Desktop. If the issue persists please collect diagnostics and submit an issue (https://docs.docker.com/desktop/troubleshoot/overview/#diagnose-from-the-terminal).
+
+[Quit] [Diagnose & Feedback] [Reset Docker to factory defaults]
+
+Solution
+https://stackoverflow.com/questions/76160943/docker-desktop-an-unexpected-error-was-encountered-while-executing-a-wsl-comma
+wsl --status 
+
+wsl -l #list wsl 
+
+wsl –install or wsl.exe --install -d ubuntu

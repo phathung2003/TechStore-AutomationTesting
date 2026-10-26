@@ -1,0 +1,84 @@
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\nunit.engine.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\nunit.engine.api.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\nunit.engine.core.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\nunit.framework.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\nunit.framework.xml
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\Acer\Desktop\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\Acer\Desktop\Selenium\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\Acer\Desktop\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\Acer\Desktop\Selenium\Selenium\obj\Debug\Selenium.pdb
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\NUnit3.TestAdapter.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\nunit.engine.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\nunit.engine.api.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\nunit.engine.core.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\testcentric.engine.metadata.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\Selenium.exe.config
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\Selenium.exe
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\Selenium.pdb
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\Newtonsoft.Json.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\nunit.framework.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\nunit.framework.legacy.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\WebDriver.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\Newtonsoft.Json.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\nunit.framework.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\nunit.framework.legacy.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\WebDriver.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\obj\Debug\Selenium.exe
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Lý thuyết\Selenium\Selenium\obj\Debug\Selenium.pdb
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\NUnit3.TestAdapter.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\nunit.engine.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\nunit.engine.api.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\nunit.engine.core.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\testcentric.engine.metadata.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\Selenium.exe.config
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\Selenium.exe
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\Selenium.pdb
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\Newtonsoft.Json.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\nunit.framework.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\nunit.framework.legacy.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\WebDriver.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\Newtonsoft.Json.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\nunit.framework.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\nunit.framework.legacy.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\WebDriver.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\obj\Debug\Selenium.exe
+D:\Năm 3\Học kỳ 2\Bảo đảm chất lượng phần mềm\Selenium\Selenium\obj\Debug\Selenium.pdb
